@@ -1,0 +1,15 @@
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\GhinImp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\GhinImp.AssemblyInfoInputs.cache
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\GhinImp.AssemblyInfo.cs
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\GhinImp.csproj.CoreCompileInputs.cache
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\GhinImp.sourcelink.json
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\bin\Debug\net8.0\GhinImp.exe
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\bin\Debug\net8.0\GhinImp.deps.json
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\bin\Debug\net8.0\GhinImp.runtimeconfig.json
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\bin\Debug\net8.0\GhinImp.dll
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\bin\Debug\net8.0\GhinImp.pdb
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\GhinImp.dll
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\refint\GhinImp.dll
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\GhinImp.pdb
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\GhinImp.genruntimeconfig.cache
+C:\Users\Николаева Наталья\Source\Repos\GhinImp\GhinImp\obj\Debug\net8.0\ref\GhinImp.dll
